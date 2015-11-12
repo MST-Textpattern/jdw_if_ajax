@@ -1,0 +1,48 @@
+# Type: Client side plugin
+# Helper tags for TXP + AJAX
+# Author: Jan De Wilde
+# URL: http://www.jandewilde.com/
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern &gt; admin &gt; plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+YToxMTp7czo0OiJuYW1lIjtzOjExOiJqZHdfaWZfYWpheCI7czo2OiJhdXRob3IiO3M6MTI6
+IkphbiBEZSBXaWxkZSI7czoxMDoiYXV0aG9yX3VyaSI7czoyNjoiaHR0cDovL3d3dy5qYW5k
+ZXdpbGRlLmNvbS8iO3M6NzoidmVyc2lvbiI7czozOiIwLjEiO3M6MTE6ImRlc2NyaXB0aW9u
+IjtzOjI2OiJIZWxwZXIgdGFncyBmb3IgVFhQICsgQUpBWCI7czo0OiJoZWxwIjtzOjExNDQ6
+Igk8aDEgY2xhc3M9InRpdGxlIHRhZyI+amR3X2lmX2FqYXg8L2gxPgoKCTxoMiBjbGFzcz0i
+c2VjdGlvbiI+Q3JlZGl0PC9oMj4KCgk8cD5UaGlzIHBsdWdpbiBpcyBiYXNlZCB1cG9uIGR1
+Yl9pZl9hamF4IChubyBsb25nZXIgYXZhaWxhYmxlKSBieSBKYW1pZSBXaWxraW5zb24uPGJy
+IC8+Ckhvd2V2ZXI6IFRoaXMgcGx1Z2luIGhhcyBhIG5ldyB0YWc6IDxzcGFuIGNsYXNzPSJ0
+YWciPmpkd19pZl9ub3RfYWpheDwvc3Bhbj4uPGJyIC8+Ckl0IHVzZXMgdGhlIHgtcmVxdWVz
+dGVkLXdpdGggaGVhZGVyIHRvIGRlbGl2ZXIgZGlmZmVyZW50IGNvbnRlbnQgdG8gQWpheCBj
+YWxscy48L3A+CgoJPGgyIGNsYXNzPSJzZWN0aW9uIj5UYWdzPC9oMj4KCgk8aDMgY2xhc3M9
+InRhZyI+amR3X2lmX2FqYXg8L2gzPgoKCTxwIGNsYXNzPSJ0YWctc3VtbWFyeSI+IENvbnRh
+aW5lciB0YWcuIFdoZW4gdGhlIHBhZ2Ugb3IgZm9ybSBpcyByZXF1ZXN0ZWQgYnkgYWpheCwg
+Y29udGVudCB3aWxsIHNob3cuPC9wPgoKPHByZSBjbGFzcz0idGFnLWV4YW1wbGUiPjxjb2Rl
+IGNsYXNzPSJ0YWctZXhhbXBsZSI+Jmx0O3R4cDpqZHdfaWZfYWpheCZndDsKLy8gY29kZSBm
+b3IgYWpheCBnb2VzIGhlcmUKJmx0O3R4cDplbHNlIC8mZ3Q7Ci8vb3RoZXIgY29kZSBnb2Vz
+IGhlcmUKJmx0O2pkd19pZl9hamF4Jmd0Owo8L2NvZGU+PC9wcmU+CgoJPGgzIGNsYXNzPSJ0
+YWciPmpkd19pZl9ub3RfYWpheDwvaDM+CgoJPHAgY2xhc3M9InRhZy1zdW1tYXJ5Ij4gQ29u
+dGFpbmVyIHRhZy4gV2hlbiB0aGUgcGFnZSBvciBmb3JtIGlzIHJlcXVlc3RlZCBieSBhamF4
+LCBjb250ZW50IHdvbiYjODIxNzt0IHNob3cuPC9wPgoKPHByZSBjbGFzcz0idGFnLWV4YW1w
+bGUiPjxjb2RlIGNsYXNzPSJ0YWctZXhhbXBsZSI+Jmx0O3R4cDpqZHdfaWZfbm90X2FqYXgm
+Z3Q7Ci8vIHNraXBwZWQgYnkgYWpheAombHQ7L3R4cDppZl9ub3RfYWpheCZndDsKPC9jb2Rl
+PjwvcHJlPgo8IS0tICoqKiBCRUdJTiBQTFVHSU4gQ1NTICoqKiAtLT4KPHN0eWxlIHR5cGU9
+InRleHQvY3NzIj4KYm9keSB7Zm9udC1zaXplOjE0cHg7IGZvbnQtZmFtaWx5OiBIZWx2ZXRp
+Y2EsIGFyaWFsLCBzYW5zLXNlcmlmO30KPC9zdHlsZT4KPCEtLSAqKiogRU5EIFBMVUdJTiBD
+U1MgKioqIC0tPgoiO3M6NDoiY29kZSI7czo0NDA6Ii8qIG9yZ2luYWxseSBkdWJfaWZfYWph
+eCAqLw0KDQpmdW5jdGlvbiBqZHdfaWZfYWpheCgkYXR0cywgJHRoaW5nKQ0Kew0KCSRpc19h
+amF4ID0gaXNzZXQoJF9TRVJWRVJbJ0hUVFBfWF9SRVFVRVNURURfV0lUSCddKSAmJiAkX1NF
+UlZFUiBbJ0hUVFBfWF9SRVFVRVNURURfV0lUSCddICA9PSAnWE1MSHR0cFJlcXVlc3QnOw0K
+CXJldHVybiBwYXJzZSggRXZhbEVsc2UoJHRoaW5nLCAkaXNfYWpheCkgKTsNCn0NCg0KZnVu
+Y3Rpb24gamR3X2lmX25vdF9hamF4KCRhdHRzLCAkdGhpbmcpDQp7DQoJJGlzX25vdF9hamF4
+ID0gIWlzc2V0KCRfU0VSVkVSWydIVFRQX1hfUkVRVUVTVEVEX1dJVEgnXSkgfHwgJF9TRVJW
+RVIgWydIVFRQX1hfUkVRVUVTVEVEX1dJVEgnXSAgPT0gJyc7DQoJcmV0dXJuIHBhcnNlKCBF
+dmFsRWxzZSgkdGhpbmcsICRpc19ub3RfYWpheCkgKTsNCn0NCg0KIjtzOjQ6InR5cGUiO3M6
+MToiMCI7czo1OiJmbGFncyI7czoxOiIwIjtzOjU6Im9yZGVyIjtzOjE6IjUiO3M6MzoibWQ1
+IjtzOjMyOiI4MjM1YWFmODM0MTQ4ZDBjOGI0MTc2OWMzZGM3NmJjMSI7fQ==
